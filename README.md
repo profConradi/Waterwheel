@@ -1,4 +1,4 @@
-# Attrattori di Sproutt
+# Attrattori di Sprott
 Todo
 
 ![Image](a-92-bn.png)
